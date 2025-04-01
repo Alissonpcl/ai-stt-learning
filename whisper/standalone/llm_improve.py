@@ -1,3 +1,8 @@
+'''
+WORK IN PROGRESS
+Although it is tracked it is not finished yet
+'''
+
 from faster_whisper import WhisperModel
 from langchain_ollama.llms import OllamaLLM
 from langchain_core.prompts import ChatPromptTemplate

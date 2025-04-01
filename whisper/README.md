@@ -1,9 +1,6 @@
-🏗️ WORK IN PROGRESS
+# About
 
-
-# Sobre
-
-Project build to try and learn  [Faster Whisper](https://github.com/SYSTRAN/faster-whisper)
+This directory contains several tests of running Faster Whisper to transcribe audio.
 
 
 # Tips
