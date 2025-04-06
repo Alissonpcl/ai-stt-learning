@@ -16,6 +16,7 @@ React application that does the following:
 
 1. Capture audio from device microfone using native Javascript feature of Speech to Text;
 1. Sends the audio to a backend application
+1. Display transcribed text sent back by the backend
 
 ### Backend
 
@@ -27,5 +28,4 @@ Flask API that:
 
 # Tips
 
-## Running on GPU
-Faster Whisper needs NVIDIA drivers to run on GPU. So if your machine (eg: Mac M Series) doesn't have a NVIDIA GPU it is possible to run just the backend application in an another machine (eg.: another phisical machine or a VMM on Cloud) and the front locally.
+See [README.md](../README.md) for tips about running Whisper locally.
