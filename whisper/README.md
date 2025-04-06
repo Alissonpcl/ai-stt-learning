@@ -12,7 +12,6 @@ Many testes contain simple Python codes to try different approaches on using Whi
 ### web-app
 A web app containing a front end and a back end code to capture audio using web browser, send it to the back end to store it, transcribe it using Whisper locally and return it to the front.
 
-
 # Tips
 
 ## Running on GPU
