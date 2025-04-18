@@ -8,6 +8,7 @@ uploads_mp3
 node_modules
 .env
 logs
+audio_storage
 
 # Files where its names starts with
 # the words below can't be tracked

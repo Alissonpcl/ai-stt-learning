@@ -1,5 +1,5 @@
 import React from 'react';
-import AudioTranscriptionComponent from './components/AudioTranscriptionComponent';
+import AudioTranscriptionComponent from './components/AudioTranscription';
 import './App.css';
 
 function App() {

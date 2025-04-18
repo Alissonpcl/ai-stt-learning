@@ -1,3 +1,0 @@
-faster-whisper
-langchain
-langchain_ollama
